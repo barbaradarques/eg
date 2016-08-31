@@ -1,5 +1,6 @@
 
 void foo(void)
 {
-  /* Nothing */
+  int a;
+  a=1;
 }
